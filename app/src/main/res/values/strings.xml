@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AU Cities POC</string>
+    <string name="expand_or_collapse">Expand or Collapse</string>
+    <string name="sort_descending">Sort Descending</string>
+    <string name="sort_ascending">Sort Ascending</string>
+    <string name="label_country">Country</string>
+    <string name="label_state">State</string>
+    <string name="label_capital">Capital</string>
+    <string name="label_iso2">Iso2</string>
+    <string name="label_latitude">Latitude</string>
+    <string name="label_longitude">Longitude</string>
+    <string name="label_population">Population</string>
+    <string name="label_population_proper">Population Proper</string>
+</resources>
